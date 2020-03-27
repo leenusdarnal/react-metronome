@@ -1,5 +1,5 @@
 {
-  "name": "metronome",
+  "name": "react-metronome",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
