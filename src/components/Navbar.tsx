@@ -11,12 +11,10 @@ export const Navbar = ({
 }) => {
   return (
     <nav className='mt-2 container flex w-full justify-between'>
-      <div className='m-auto font-bold text-black text-5xl dark:text-white'>
-        Metronome
-      </div>
+      <div className='m-auto font-bold text-black text-5xl '>Metronome</div>
       <div onClick={toggleDarkMode} className='cursor-pointer w-10'>
         {darkmode ? (
-          <DarkmodeIcon className='fill-white' />
+          <DarkmodeIcon className='fill-black ' />
         ) : (
           <LightmodeIcon className='fill-black' />
         )}
