@@ -27,9 +27,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: build and deploy
-        run: yarn install
+        run: npm install
       - name: Build page
-        run: yarn build
+        run: npm run build
       - name: Deploy to gh-pages
-        run: yarn build
+        run: npm run deploy
 
