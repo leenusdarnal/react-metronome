@@ -1,24 +1,27 @@
-body{
+/* body {
     background-color: aquamarinez;
 }
 
-.container{
-    display:flex ;
+.container {
+    display: flex;
     flex-direction: column;
-    margin:50px;
+    margin: 50px;
     border: 2px solid;
     width: 300px;
 }
-h1{
+
+h1 {
     margin: 0px auto;
 }
-#sliderInput{
+
+#sliderInput {
     width: 400px;
     padding: 5px;
     margin: 5px;
 
 }
-#playButton{
+
+#playButton {
     width: 60px;
     margin: 10px;
     background: #c94d46;
@@ -29,7 +32,7 @@ h1{
     font-size: 18px;
 }
 
-#beatSpeedContainer{
+#beatSpeedContainer {
     font-size: 20px;
     margin: 0px auto;
     margin-bottom: 5px;
@@ -37,7 +40,8 @@ h1{
     right: -20px;
 
 }
-#beatSpeed{
+
+#beatSpeed {
     width: 70px;
     margin: 10px;
-}
+} */
