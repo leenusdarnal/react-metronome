@@ -7,7 +7,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "worker-timers": "^7.0.60"
+    "worker-timers": "^8.0.34"
   },
   "scripts": {
     "dev": "vite",
